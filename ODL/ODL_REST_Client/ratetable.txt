@@ -1,0 +1,3 @@
+1#balancerName 2#switchId 3#portId
+balancer1 00:00:00:00:00:00:00:01 1 
+balancer1 00:00:00:00:00:00:00:02 2 
